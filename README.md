@@ -7,6 +7,8 @@
 
 2D Game Engine is a lightweight and modular C++ game engine built on top of the Simple DirectMedia Layer (SDL). It provides a foundation for developing 2D and simple 3D games with a focus on simplicity, performance, and extensibility.
 
+![alt text](https://github.com/aryanraj13/Game-Engine/blob/main/flag.png?raw=true)
+
 ## Table of Contents
 
 - [Overview](#overview)
